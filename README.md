@@ -13,7 +13,5 @@ SocialSpace offers a user-friendly interface where users can create profiles, vi
 
 
 <img width="1728" alt="SocialSpace" src="https://github.com/sanowl/SocialSpace/assets/99511815/5accaf49-461f-4d13-8287-54d3a583da8d">
-# the home screen
-<img width="1728" alt="Screenshot 2023-05-12 at 19 25 17" src="https://github.com/sanowl/SocialSpace/assets/99511815/009f256a-f97e-4122-a83c-69faf54c9372">
-# Login screen
+
 <img width="1728" alt="Screenshot 2023-05-12 at 19 26 47" src="https://github.com/sanowl/SocialSpace/assets/99511815/13adf099-a432-4448-8619-3121b8454869">
